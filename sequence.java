@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberSequence {
+public class sequence {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
