@@ -1,4 +1,4 @@
-public class InfiniteLoops {
+public class infiniteLoop {
     public static void main(String[] args) {
         // Infinite for loop
         System.out.println("Infinite for loop:");
